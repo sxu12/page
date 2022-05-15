@@ -2,7 +2,7 @@
 
 ``` markdown
 | Shengjie Xu, Ph.D. |
-| Incoming Assistant Professor (Cybersecurity & AI/ML) |
+| Incoming Assistant Professor (focusing Cybersecurity & AI/ML) |
 | Management Information Systems Department |
 | Fowler College of Business |
 | San Diego State University |
@@ -12,7 +12,7 @@
 ### 1. Biography & Research Interests
 Shengjie Xu received a Ph.D. degree in [Computer Engineering](https://engineering.unl.edu/ece/) from [University of Nebraska-Lincoln](https://www.unl.edu/) in 2019, and an M.S. degree in [Telecommunications](https://www.sci.pitt.edu/academics/masters-degrees/telecommunications-ms) from [University of Pittsburgh](https://www.pitt.edu/) in 2014. Before that, he held a B.E. degree in Computer Science and Information Security in 2012. His research interests include **AI-driven cybersecurity**, **secure edge computing**, and **critical infrastructure protection**.
 
-Dr. Xu is an incoming assistant professor in the Management Information Systems Department in the [Fowler College of Business](https://business.sdsu.edu/) at [San Diego State University](https://www.sdsu.edu/). From 2019 to 2022, he was an assistant professor of computer and cyber sciences in the Beacom College of Computer and Cyber Sciences at [Dakota State University](https://dsu.edu/index.html). He serves as a Technical Editor for [IEEE Wireless Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/editorial-board) and an Editor for [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet). He has received research grants and contracts from National Science Foundation and Dakota State University. He is the recipient of the *IET Journals Premium Award for Best Paper* in 2020 and the *Best Poster Award* from 11th International Conference on the Design of Reliable Communication Networks (DRCN) in 2015. He is a member of IEEE and ACM. He holds multiple professional certifications in cyber security and computer networking.
+Starting in August 2022, Dr. Xu will serve as an assistant professor in the Management Information Systems Department in the [Fowler College of Business](https://business.sdsu.edu/) at [San Diego State University](https://www.sdsu.edu/). From 2019 to 2022, he was an assistant professor of computer and cyber sciences in the Beacom College of Computer and Cyber Sciences at [Dakota State University](https://dsu.edu/index.html). He serves as a Technical Editor for [IEEE Wireless Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/editorial-board) and an Editor for [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet). He has received research grants and contracts from National Science Foundation and Dakota State University. He is the recipient of the *IET Journals Premium Award for Best Paper* in 2020 and the *Best Poster Award* from 11th International Conference on the Design of Reliable Communication Networks (DRCN) in 2015. He is a member of IEEE and ACM. He holds multiple professional certifications in cyber security and computer networking.
 
 ### 2. Publications
 #### 2.1 Book
@@ -92,7 +92,7 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 
 ### 4. Research Group
 #### 4.1 Director
-- Dr. Shengjie Xu
+- Dr. Shengjie Xu (title: assistant professor of computer and cyber sciences at Dakota State University)
   - Research interest: AI-driven cybersecurity, secure edge computing, and critical infrastructure protection
   - affiliated with the DSU’s [Madison Cyber Labs](https://dsu.edu/research/madison-cyber-labs/index.html) and [AI Lab (AI/ML for cybersecurity research group)](https://dsu.edu/research/madison-cyber-labs/ai-lab.html)
 
