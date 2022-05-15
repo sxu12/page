@@ -116,6 +116,7 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 
 #### 5.1 Editorial Board
 - Technical Editor – [IEEE Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742), April 2021 – Present
+- Editor – [IEEE COMSOC MMTC Communications - Review](https://mmc.committees.comsoc.org/communications-review/), April 2021 – Present
 - Editor – [International Journal of Sensor Networks (IJSNet)](https://www.inderscience.com/jhome.php?jcode=ijsnet#edboard-content), September 2020 – Present
 
 #### 5.2 Technical Program Committee (TPC) member
