@@ -82,3 +82,10 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
     - 6th Central Area Networking and Security Workshop, Lawrence, KS.
 
 #### 3.3 Certifications
+7. CNSS No. 4011 – Information Systems Security Professionals
+6. CNSS No. 4012 – Designated Approving Authority
+5. CNSS No. 4013 – System Administrators in Information Systems Security
+4. CNSS No. 4014A – Information Systems Security Officer
+3. CNSS No. 4015 – System Certifiers
+2. Cisco Certified Network Associate (CCNA) in Security
+1. Cisco Certified Network Associate (CCNA) in Routing and Switching
