@@ -72,7 +72,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 1. **Travel awards**:
    - **National Science Foundation (NSF) – Travel Award**, 2019
 	   - NSF Networking Technology and Systems Early-Career Investigators (NeTS-ECI) Workshop, Alexandria, VA.
-   - **National Science Foundation (NSF) – Student Travel Award**, 2018
+   - **NSF – Student Travel Award**, 2018
    	- 12th Central Area Networking and Security Workshop, Manhattan, KS.
 	- **Graduate Student Conference Travel Award**, 2018
 		- College of Engineering, University of Nebraska-Lincoln
@@ -82,7 +82,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 		- 6th Central Area Networking and Security Workshop, Lawrence, KS.
 
 #### 3.3 Professional Certifications
-7. CNSS No. 4011 – Information Systems Security Professionals
+7. Committee on National Security Systems (CNSS) No. 4011 – Information Systems Security Professionals
 6. CNSS No. 4012 – Designated Approving Authority
 5. CNSS No. 4013 – System Administrators in Information Systems Security
 4. CNSS No. 4014A – Information Systems Security Officer
