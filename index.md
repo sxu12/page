@@ -51,13 +51,13 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 #### 3.1 Grants
 5. **(Single) PI: Shengjie Xu**, “Junior Reserve Officer Training Corps (JROTC) Cyber Academy Pilot Program”
    - a Subaward of NSF DGE 1548315, Amount: $118,267, Period: 05/2021 – 04/2022. 
-7. **(Single) PI: Shengjie Xu**, “Adversarial Attacks and Defenses in Machine Learning”
+4. **(Single) PI: Shengjie Xu**, “Adversarial Attacks and Defenses in Machine Learning”
    - a Subaward of NSF OAC 1730105, Amount: $5,000, Period: 06/2021 – 08/2021.
-8. **(Single) PI: Shengjie Xu**, “Robust Network Anomaly Detection with Optimized Machine Learning Models”
+3. **(Single) PI: Shengjie Xu**, “Robust Network Anomaly Detection with Optimized Machine Learning Models”
    - Supporting Talent for Research Trajectories: A Faculty Seed Grant (START), Research and Economic Development (RED) at Dakota State University (DSU), Amount: $2,500, Period: 01/2021 – 06/2021.
-9. **(Single) PI: Shengjie Xu**, “Secure Edge Computing against Poisoning Attacks in Distributed Networking Systems”
+2. **(Single) PI: Shengjie Xu**, “Secure Edge Computing against Poisoning Attacks in Distributed Networking Systems”
    - START, RED at DSU, Amount: $2,500, Period: 11/2021 – 06/2022.
-10. **(Single) PI: Shengjie Xu**, “Defending Smart Speakers against Adversarial Voice Commands”
+1. **(Single) PI: Shengjie Xu**, “Defending Smart Speakers against Adversarial Voice Commands”
    - Faculty Research Initiative (FRI), RED at DSU, Amount: $3,000, Period: 09/2020 – 04/2021.
       
 #### 3.2 Awards
@@ -65,11 +65,11 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
    - Institution of Engineering and Technology (IET) – *IET Smart Grid*
 4. **Milton E. Mohr Graduate Fellowship Award**, 2017
    - College of Engineering, University of Nebraska-Lincoln
-6. **Best Poster Award**, 2015
+3. **Best Poster Award**, 2015
    - 11th International Conference on Design of Reliable Communication Networks, Kansas City, MO.
-7. **Outstanding Graduate Students Scholarship**, 2013
+2. **Outstanding Graduate Students Scholarship**, 2013
    - School of Information Science, University of Pittsburgh
-8. **Travel awards**:
+1. **Travel awards**:
    - **National Science Foundation (NSF) – Travel Award**, 2019
 	   - NSF Networking Technology and Systems Early-Career Investigators (NeTS-ECI) Workshop, Alexandria, VA.
    - **National Science Foundation (NSF) – Student Travel Award**, 2018
@@ -92,9 +92,9 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 
 ### 4. Research Group
 #### 4.1 Director
-Dr. Shengjie Xu
-- Research interest: AI-driven cybersecurity, secure edge computing, and critical infrastructure protection
-- affiliated with the DSU’s [Madison Cyber Labs](https://dsu.edu/research/madison-cyber-labs/index.html) and [AI Lab (AI/ML for cybersecurity research group)](https://dsu.edu/research/madison-cyber-labs/ai-lab.html)
+- Dr. Shengjie Xu
+  - Research interest: AI-driven cybersecurity, secure edge computing, and critical infrastructure protection
+  - affiliated with the DSU’s [Madison Cyber Labs](https://dsu.edu/research/madison-cyber-labs/index.html) and [AI Lab (AI/ML for cybersecurity research group)](https://dsu.edu/research/madison-cyber-labs/ai-lab.html)
 
 #### 4.2 Alumni at Dakota State University
 - Matt Bradley (Ph.D. student)
@@ -113,9 +113,11 @@ Dr. Shengjie Xu
   - robust anomaly detection
 
 ### 5. Professional Services
+
 #### 5.1 Editorial Board
 - Technical Editor – [IEEE Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742), April 2021 – Present
 - Editor – [International Journal of Sensor Networks (IJSNet)](https://www.inderscience.com/jhome.php?jcode=ijsnet#edboard-content), September 2020 – Present
+
 #### 5.2 Technical Program Committee (TPC) member
 - IEEE International Conference on Communications (ICC), 2022
   - Symposium: Green Communication Systems and Networks (GCSN)
@@ -126,6 +128,7 @@ Dr. Shengjie Xu
   - Symposium: Green Communication Systems and Networks (GCSN)
   - Symposium: Next-Generation Networking and Internet (NGNI)
 - IEEE Vehicular Technology Conference (VTC), 2015-2017
+
 #### 5.3 Reviewers of Journals and Conferences
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Vehicular Technology
@@ -157,18 +160,10 @@ Dr. Shengjie Xu
 - International Conference on Design of Reliable Communication Networks (DRCN) 2015
 
 ### 6. In the News
-- “**Eye on KELOLAND: A home for cyber security research**“, KELOLAND TV, February 27, 2022
-  - https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/
-  - https://www.youtube.com/watch?v=Sa6qElh6WKM
-- “**DSU Hosts JROTC Cyber Academy**”, Dakota State University – News, August 11, 2021.
-  - https://dsu.edu/news/2021/08/jrotc-cyber-academy.html
-- “**DSU Welcomes New Degrees in Artificial Intelligence**”, SiouxFalls.Business, April 29, 2021.
-  - https://www.siouxfalls.business/dsu-welcomes-new-degrees-in-artificial-intelligence/
-- “**Trustworthy Artificial Intelligence**”, Dakota State University – News, April 16, 2021.
-  - https://dsu.edu/news/2021/04/trustworthy-artificial-intelligence.html
-- “**IET Journals Premium Award for Best Paper in IET Smart Grid**”, IET Smart Grid, January 2021.
-  - https://ietresearch.onlinelibrary.wiley.com/hub/journal/25152947/homepage/prizes
-- “**Grants Advance Research**”, Dakota State University – News, October 21, 2020.
-  - https://dsu.edu/news/2020/10/internal-grants-advance-research.html?utm_source=hootsuite&utm_medium=twitter&utm_term=dakotastate&utm_content=f234179e-3dd6-440a-9ff3-5bc123d74d58&utm_campaign=
-- “**Building the Future with Artificial Intelligence, Machine Learning at Dakota State**”, SiouxFalls.Business, September 28, 2020.
-  - https://www.siouxfalls.business/building-the-future-with-artificial-intelligence-machine-learning-at-dakota-state/
+- "**Eye on KELOLAND: A home for cyber security research**", KELOLAND TV, February 27, 2022. [News](https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/), [YouTube](https://www.youtube.com/watch?v=Sa6qElh6WKM)
+- "**DSU Hosts JROTC Cyber Academy**", Dakota State University – News, August 11, 2021. [News](https://dsu.edu/news/2021/08/jrotc-cyber-academy.html)
+- "**DSU Welcomes New Degrees in Artificial Intelligence**", SiouxFalls.Business, April 29, 2021. [News](https://www.siouxfalls.business/dsu-welcomes-new-degrees-in-artificial-intelligence)
+- "**Trustworthy Artificial Intelligence**", Dakota State University – News, April 16, 2021. [News](https://dsu.edu/news/2021/04/trustworthy-artificial-intelligence.html)
+- "**IET Journals Premium Award for Best Paper in IET Smart Grid**", IET Smart Grid, January 2021. [News](https://ietresearch.onlinelibrary.wiley.com/hub/journal/25152947/homepage/prizes)
+- "**Grants Advance Research**", Dakota State University – News, October 21, 2020. [News](https://dsu.edu/news/2020/10/internal-grants-advance-research.html?utm_source=hootsuite&utm_medium=twitter&utm_term=dakotastate&utm_content=f234179e-3dd6-440a-9ff3-5bc123d74d58&utm_campaign=)
+- "**Building the Future with Artificial Intelligence, Machine Learning at Dakota State**", SiouxFalls.Business, September 28, 2020. [News](https://www.siouxfalls.business/building-the-future-with-artificial-intelligence-machine-learning-at-dakota-state/)
