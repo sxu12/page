@@ -15,11 +15,10 @@ Shengjie Xu received a Ph.D. degree in [Computer Engineering](https://engineerin
 Dr. Xu is an incoming assistant professor in the Management Information Systems Department in the [Fowler College of Business](https://business.sdsu.edu/) at [San Diego State University](https://www.sdsu.edu/). From 2019 to 2022, he was an assistant professor of computer and cyber sciences in the Beacom College of Computer and Cyber Sciences at [Dakota State University](https://dsu.edu/index.html). He serves as a Technical Editor for [IEEE Wireless Communications](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/editorial-board) and an Editor for [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet). He has received research grants and contracts from National Science Foundation and Dakota State University. He is the recipient of the *IET Journals Premium Award for Best Paper* in 2020 and the *Best Poster Award* from 11th International Conference on the Design of Reliable Communication Networks (DRCN) in 2015. He is a member of IEEE and ACM. He holds multiple professional certifications in cyber security and computer networking.
 
 ### Publications
-``` markdown
-## Book
+#### Book
 1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Data-driven Network Intelligence for Cyber Security," *John Wiley/IEEE Press". (to appear in late 2022)
 
-## Journal Articles
+#### Journal Articles
 7.  Sohan Gyawali, **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Challenges and Solutions for Cellular based V2X Communications," *IEEE Communications Surveys and Tutorials*, vol. 23, no. 1, pp. 222-255, Firstquarter 2021.
 6. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Data-driven Edge Intelligence for Robust Network Anomaly Detection," IEEE Transactions on Network Science and Engineering, vol. 7, no. 3, pp. 1481-1492, 1 July-Sept. 2020.
 5. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Edge Intelligence Assisted Gateway Defense in Cyber Security," IEEE Network, vol. 34, no. 4, pp. 14-19, July/August 2020.
@@ -28,7 +27,7 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 2. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Reliable and Resilient Access Network Design for Advanced Metering Infrastructures in Smart Grid," IET Smart Grid, vol. 1, pp. 24-30, April 2018. (IET Journals Premium Award for Best Paper)
 1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "On Reliability of Smart Grid Neighborhood Area Networks," IEEE Access, vol.3, pp.2352-2365, 2015.
 
-## Conference Papers
+#### Conference Papers
 15. Tarek Ahmed and **Shengjie Xu**, “Shellcoding: Hunting for Kernel32 Base Address,” IEEE Conference on Computer Communications (INFOCOM) - Poster Paper, virtual conference, May 2-5, 2022.
 14. Justin Burr and **Shengjie Xu**, "Improving Adversarial Attacks Against Executable Raw Byte Classifiers," IEEE Conference on Computer Communications (INFOCOM) - Poster Paper, virtual conference, May 10-13, 2021.
 13. Matt Bradley and **Shengjie Xu**, "A Metric for Machine Learning Vulnerability to Adversarial Examples," IEEE Conference on Computer Communications Workshops (INFOCOM) - Poster Paper, virtual conference, May 10-13, 2021.
@@ -45,9 +44,8 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 2. **Shengjie Xu** and Yi Qian, "Quantitative Study of Reliable Communication Infrastructure in Smart Grid NAN," The 11th International Conference on the Design of Reliable Communication Networks (DRCN), Kansas City, MS, USA, March 25-27, 2015. (DRCN 2015 Best Poster Award)
 1. **Shengjie Xu**, Xiaochun Lei, Jundong Li and Hua Shi, "USB Storage Device Surveillance System in Intranet," The 4th International Conference on Information Security and Intelligence Control (ISIC), Jilin, China, August 13-15, 2011.
 
-## Contributor to scientific report
+#### Contributor to scientific report
 1.  Zurawski, J. (2021). South Dakota Region Scientific Deep Dive. Lawrence Berkeley National Laboratory. Report #: LBNL-2001427.
-```
 
 ### Grants
 ``` markdown
