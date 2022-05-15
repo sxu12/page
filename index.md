@@ -47,7 +47,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 #### 2.4 Contributor to scientific report
 1.  Zurawski, J. (2021). "South Dakota Region Scientific Deep Dive," *Lawrence Berkeley National Laboratory*. Report #: LBNL-2001427.
 
-### 3. Grants, Awards, Certifications
+### 3. Grants, Awards, & Certifications
 #### 3.1 Grants
 5. **(Single) PI: Shengjie Xu**, “Junior Reserve Officer Training Corps (JROTC) Cyber Academy Pilot Program”
    - a Subaward of NSF DGE 1548315, Amount: $118,267, Period: 05/2021 – 04/2022. 
@@ -81,7 +81,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 	- **National Science Foundation (NSF) – Student Travel Award**, 2014
 		- 6th Central Area Networking and Security Workshop, Lawrence, KS.
 
-#### 3.3 Certifications
+#### 3.3 Professional Certifications
 7. CNSS No. 4011 – Information Systems Security Professionals
 6. CNSS No. 4012 – Designated Approving Authority
 5. CNSS No. 4013 – System Administrators in Information Systems Security
