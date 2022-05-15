@@ -1,4 +1,4 @@
-## Dr. Shengjie Xu, Ph.D., Assistant Professor
+## Dr. Shengjie Xu, Assistant Professor
 
 ``` markdown
 | Shengjie Xu, Ph.D. |
@@ -51,13 +51,13 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 #### 3.1 Grants
 5. **(Single) PI: Shengjie Xu**, “Junior Reserve Officer Training Corps (JROTC) Cyber Academy Pilot Program”
    - a Subaward of NSF DGE 1548315, Amount: $118,267, Period: 05/2021 – 04/2022. 
-4. **(Single) PI: Shengjie Xu**, “Adversarial Attacks and Defenses in Machine Learning”
+7. **(Single) PI: Shengjie Xu**, “Adversarial Attacks and Defenses in Machine Learning”
    - a Subaward of NSF OAC 1730105, Amount: $5,000, Period: 06/2021 – 08/2021.
-3. **(Single) PI: Shengjie Xu**, “Robust Network Anomaly Detection with Optimized Machine Learning Models”
+8. **(Single) PI: Shengjie Xu**, “Robust Network Anomaly Detection with Optimized Machine Learning Models”
    - Supporting Talent for Research Trajectories: A Faculty Seed Grant (START), Research and Economic Development (RED) at Dakota State University (DSU), Amount: $2,500, Period: 01/2021 – 06/2021.
-2. **(Single) PI: Shengjie Xu**, “Secure Edge Computing against Poisoning Attacks in Distributed Networking Systems”
+9. **(Single) PI: Shengjie Xu**, “Secure Edge Computing against Poisoning Attacks in Distributed Networking Systems”
    - START, RED at DSU, Amount: $2,500, Period: 11/2021 – 06/2022.
-1. **(Single) PI: Shengjie Xu**, “Defending Smart Speakers against Adversarial Voice Commands”
+10. **(Single) PI: Shengjie Xu**, “Defending Smart Speakers against Adversarial Voice Commands”
    - Faculty Research Initiative (FRI), RED at DSU, Amount: $3,000, Period: 09/2020 – 04/2021.
       
 #### 3.2 Awards
@@ -70,15 +70,15 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 7. **Outstanding Graduate Students Scholarship**, 2013
    - School of Information Science, University of Pittsburgh
 8. **Travel awards**:
-   - **National Science Foundation (NSF) – Travel Award** 2019
+   - **National Science Foundation (NSF) – Travel Award**, 2019
 	   - NSF Networking Technology and Systems Early-Career Investigators (NeTS-ECI) Workshop, Alexandria, VA.
-   - **National Science Foundation (NSF) – Student Travel Award** 2018
+   - **National Science Foundation (NSF) – Student Travel Award**, 2018
    	- 12th Central Area Networking and Security Workshop, Manhattan, KS.
-	- **Graduate Student Conference Travel Award** 2018
+	- **Graduate Student Conference Travel Award**, 2018
 		- College of Engineering, University of Nebraska-Lincoln
-	- **INFORMS Travel Award** 2016
+	- **INFORMS Travel Award**, 2016
 		- INFORMS Conference on Business Analytics and Operations Research, Orlando, FL.
-	- **National Science Foundation (NSF) – Student Travel Award** 2014
+	- **National Science Foundation (NSF) – Student Travel Award**, 2014
 		- 6th Central Area Networking and Security Workshop, Lawrence, KS.
 
 #### 3.3 Certifications
@@ -89,3 +89,86 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
 3. CNSS No. 4015 – System Certifiers
 2. Cisco Certified Network Associate (CCNA) in Security
 1. Cisco Certified Network Associate (CCNA) in Routing and Switching
+
+### 4. Research Group
+#### 4.1 Director
+Dr. Shengjie Xu
+- Research interest: AI-driven cybersecurity, secure edge computing, and critical infrastructure protection
+- affiliated with the DSU’s [Madison Cyber Labs](https://dsu.edu/research/madison-cyber-labs/index.html) and [AI Lab (AI/ML for cybersecurity research group)](https://dsu.edu/research/madison-cyber-labs/ai-lab.html)
+
+#### 4.2 Alumni at Dakota State University
+- Matt Bradley (Ph.D. student)
+  - adversarial machine learning, vulnerability assessment of machine learning models
+- Justin Burr (Ph.D. student)
+  - adversarial machine learning, evasive attacks against malware detectors
+- Jude Ejiobi (Ph.D. student)
+  - risk management, recovery plans 
+- Joseph Winger (M.S. student)
+  - adversarial machine learning in malware detection
+- Anurag Illendula (M.S. student)
+  - adversarial attacks against smart speakers
+- Sujita Chaudhary (M.S. student)
+  - reinforcement learning for penetration testing
+- Michael Armstrong (undergraduate student)
+  - robust anomaly detection
+
+### 5. Professional Services
+#### 5.1 Editorial Board
+- Technical Editor – [IEEE Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7742), April 2021 – Present
+- Editor – [International Journal of Sensor Networks (IJSNet)](https://www.inderscience.com/jhome.php?jcode=ijsnet#edboard-content), September 2020 – Present
+#### 5.2 Technical Program Committee (TPC) member
+- IEEE International Conference on Communications (ICC), 2022
+  - Symposium: Green Communication Systems and Networks (GCSN)
+  - Symposium: Next-Generation Networking and Internet (NGNI)
+- IEEE Global Communications Conference (GLOBECOM), 2021
+  - Symposium: Green Communication Systems and Networks (GCSN)
+- IEEE International Conference on Communications (ICC), 2021
+  - Symposium: Green Communication Systems and Networks (GCSN)
+  - Symposium: Next-Generation Networking and Internet (NGNI)
+- IEEE Vehicular Technology Conference (VTC), 2015-2017
+#### 5.3 Reviewers of Journals and Conferences
+- IEEE Transactions on Mobile Computing
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Cognitive Communications and Networking
+- IEEE/ACM Transactions on Networking
+- IEEE Communications Surveys and Tutorials
+- IEEE Communications Magazine
+- IEEE Wireless Communications Magazine
+- IEEE Internet of Things Journal
+- IEEE Access
+- Security and Communication Networks
+- Wireless Communications and Mobile Computing
+- International Journal of Communication Systems
+- International Journal of Distributed Sensor Networks
+- Journal of Network and Systems Management
+- China Communications
+- KSII Transactions on Internet and Information Systems
+- Mobile Information Systems
+- Peer-to-Peer Networking and Applications
+- IEEE International Conference on Computer Communications (INFOCOM) 2020
+- IEEE International Conference on Communications (ICC) 2017, 2018, 2019
+- IEEE Global Communications Conference (Globecom) 2016, 2018, 2019
+- IEEE International Conference on Computer Communications (Infocom) BigSecurity 2016
+- IEEE International Conference on Smart Grid Communications (SmartGridComm) 2016
+- IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) 2019
+- International Conference on Wireless Communications and Signal Processing (WCSP) 2017
+- International Conferences on Signal Processing and Communication Systems (ICSPCS) 2015, 2016, 2017, 2019
+- Military Communications Conference (Milcom) 2015, 2016, 2017
+- International Conference on Design of Reliable Communication Networks (DRCN) 2015
+
+### 6. In the News
+- “**Eye on KELOLAND: A home for cyber security research**“, KELOLAND TV, February 27, 2022
+  - https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/
+  - https://www.youtube.com/watch?v=Sa6qElh6WKM
+- “**DSU Hosts JROTC Cyber Academy**”, Dakota State University – News, August 11, 2021.
+  - https://dsu.edu/news/2021/08/jrotc-cyber-academy.html
+- “**DSU Welcomes New Degrees in Artificial Intelligence**”, SiouxFalls.Business, April 29, 2021.
+  - https://www.siouxfalls.business/dsu-welcomes-new-degrees-in-artificial-intelligence/
+- “**Trustworthy Artificial Intelligence**”, Dakota State University – News, April 16, 2021.
+  - https://dsu.edu/news/2021/04/trustworthy-artificial-intelligence.html
+- “**IET Journals Premium Award for Best Paper in IET Smart Grid**”, IET Smart Grid, January 2021.
+  - https://ietresearch.onlinelibrary.wiley.com/hub/journal/25152947/homepage/prizes
+- “**Grants Advance Research**”, Dakota State University – News, October 21, 2020.
+  - https://dsu.edu/news/2020/10/internal-grants-advance-research.html?utm_source=hootsuite&utm_medium=twitter&utm_term=dakotastate&utm_content=f234179e-3dd6-440a-9ff3-5bc123d74d58&utm_campaign=
+- “**Building the Future with Artificial Intelligence, Machine Learning at Dakota State**”, SiouxFalls.Business, September 28, 2020.
+  - https://www.siouxfalls.business/building-the-future-with-artificial-intelligence-machine-learning-at-dakota-state/
