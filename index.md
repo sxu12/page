@@ -62,24 +62,24 @@ Dr. Xu is an incoming assistant professor in the Management Information Systems 
       
 #### 3.2 Awards
 5. **IET Journals Premium Award for Best Paper**, 2020
-  - Institution of Engineering and Technology (IET) – *IET Smart Grid*
+   - Institution of Engineering and Technology (IET) – *IET Smart Grid*
 4. **Milton E. Mohr Graduate Fellowship Award**, 2017
-  - College of Engineering, University of Nebraska-Lincoln
-3. **Best Poster Award**, 2015
-  - 11th International Conference on Design of Reliable Communication Networks, Kansas City, MO.
-2. **Outstanding Graduate Students Scholarship**, 2013
-  - School of Information Science, University of Pittsburgh
-1. **Travel awards**:
-  - **National Science Foundation (NSF) – Travel Award** 2019
-    - NSF Networking Technology and Systems Early-Career Investigators (NeTS-ECI) Workshop, Alexandria, VA.
-  - **National Science Foundation (NSF) – Student Travel Award** 2018
-    - 12th Central Area Networking and Security Workshop, Manhattan, KS.
-  - **Graduate Student Conference Travel Award** 2018
-    - College of Engineering, University of Nebraska-Lincoln
-  - **INFORMS Travel Award** 2016
-    - INFORMS Conference on Business Analytics and Operations Research, Orlando, FL.
-  - **National Science Foundation (NSF) – Student Travel Award** 2014
-    - 6th Central Area Networking and Security Workshop, Lawrence, KS.
+   - College of Engineering, University of Nebraska-Lincoln
+6. **Best Poster Award**, 2015
+   - 11th International Conference on Design of Reliable Communication Networks, Kansas City, MO.
+7. **Outstanding Graduate Students Scholarship**, 2013
+   - School of Information Science, University of Pittsburgh
+8. **Travel awards**:
+   - **National Science Foundation (NSF) – Travel Award** 2019
+	   - NSF Networking Technology and Systems Early-Career Investigators (NeTS-ECI) Workshop, Alexandria, VA.
+   - **National Science Foundation (NSF) – Student Travel Award** 2018
+   	- 12th Central Area Networking and Security Workshop, Manhattan, KS.
+	- **Graduate Student Conference Travel Award** 2018
+		- College of Engineering, University of Nebraska-Lincoln
+	- **INFORMS Travel Award** 2016
+		- INFORMS Conference on Business Analytics and Operations Research, Orlando, FL.
+	- **National Science Foundation (NSF) – Student Travel Award** 2014
+		- 6th Central Area Networking and Security Workshop, Lawrence, KS.
 
 #### 3.3 Certifications
 7. CNSS No. 4011 – Information Systems Security Professionals
