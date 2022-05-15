@@ -41,7 +41,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 5. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "A Study on Communication Network Reliability for Advanced Metering Infrastructure in Smart Grid," *IEEE Cyber Science and Technology Congress (CyberSciTech)*, Orlando, FL, USA, November 6-10, 2017.
 4. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "A Data-driven Preprocessing Scheme on Anomaly Detection in Big Data Applications," *IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)*, Atlanta, GA, USA, May 1-4, 2017.
 3. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "A Secure Data Learning Scheme in Big Data Applications," *The 25rd International Conference on Computer Communications and Networks (ICCCN)*, Waikoloa, HI, USA, August 1-4, 2016.
-2. **Shengjie Xu** and Yi Qian, "Quantitative Study of Reliable Communication Infrastructure in Smart Grid NAN," *The 11th International Conference on the Design of Reliable Communication Networks (DRCN)*, Kansas City, MS, USA, March 25-27, 2015. (DRCN 2015 Best Poster Award)
+2. **Shengjie Xu** and Yi Qian, "Quantitative Study of Reliable Communication Infrastructure in Smart Grid NAN," *The 11th International Conference on the Design of Reliable Communication Networks (DRCN)*, Kansas City, MS, USA, March 25-27, 2015. (**DRCN 2015 Best Poster Award**)
 1. **Shengjie Xu**, Xiaochun Lei, Jundong Li and Hua Shi, "USB Storage Device Surveillance System in Intranet," *The 4th International Conference on Information Security and Intelligence Control (ISIC)*, Jilin, China, August 13-15, 2011.
 
 #### 2.4 Contributor to scientific report
@@ -82,7 +82,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 	- 6th Central Area Networking and Security Workshop, Lawrence, KS.
 
 #### 3.3 Professional Certifications
-7. Committee on National Security Systems (CNSS) No. 4011 – Information Systems Security Professionals
+7. CNSS No. 4011 – Information Systems Security Professionals
 6. CNSS No. 4012 – Designated Approving Authority
 5. CNSS No. 4013 – System Administrators in Information Systems Security
 4. CNSS No. 4014A – Information Systems Security Officer
