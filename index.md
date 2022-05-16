@@ -97,11 +97,11 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
   - affiliated with the DSU’s [Madison Cyber Labs](https://dsu.edu/research/madison-cyber-labs/index.html) and [AI Lab (AI/ML for cybersecurity research group)](https://dsu.edu/research/madison-cyber-labs/ai-lab.html)
 
 #### 4.2 Alumni at Dakota State University
-- Matt Bradley (Ph.D. student)
+- Matt Bradley, Ph.D. (Ph.D. student)
   - adversarial machine learning, vulnerability assessment of machine learning models
-- Justin Burr (Ph.D. student)
+- Justin Burr, Ph.D. (Ph.D. student)
   - adversarial machine learning, evasive attacks against malware detectors
-- Jude Ejiobi (Ph.D. student)
+- Jude Ejiobi, Ph.D. (Ph.D. student)
   - risk management, recovery plans 
 - Joseph Winger (M.S. student)
   - adversarial machine learning in malware detection
@@ -130,7 +130,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
   - Symposium: Next-Generation Networking and Internet (NGNI)
 - IEEE Vehicular Technology Conference (VTC), 2015-2017
 
-#### 5.3 Reviewers of Journals and Conferences
+#### 5.3 Peer Reviewer for Journals and Conferences
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Cognitive Communications and Networking
