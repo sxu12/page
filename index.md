@@ -50,25 +50,21 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 ### 3. Grants, Awards, & Certifications
 #### 3.1 Grants
 5. **(Single) PI: Shengjie Xu**, “Junior Reserve Officer Training Corps (JROTC) Cyber Academy Pilot Program”
-   - a Subaward of NSF DGE 1548315, Amount: $118,267, Period: 05/2021 – 04/2022. 
+   - a Subaward of NSF DGE 1548315, Amount: $118,267, Period: 05/2021 – 10/2021. 
 4. **(Single) PI: Shengjie Xu**, “Adversarial Attacks and Defenses in Machine Learning”
    - a Subaward of NSF OAC 1730105, Amount: $5,000, Period: 06/2021 – 08/2021.
 3. **(Single) PI: Shengjie Xu**, “Robust Network Anomaly Detection with Optimized Machine Learning Models”
    - Supporting Talent for Research Trajectories: A Faculty Seed Grant (START), Research and Economic Development (RED) at Dakota State University (DSU), Amount: $2,500, Period: 01/2021 – 06/2021.
 2. **(Single) PI: Shengjie Xu**, “Secure Edge Computing against Poisoning Attacks in Distributed Networking Systems”
-   - START, RED at DSU, Amount: $2,500, Period: 11/2021 – 06/2022.
+   - START, RED at DSU, Amount: $2,500, Period: 11/2021 – 05/2022.
 1. **(Single) PI: Shengjie Xu**, “Defending Smart Speakers against Adversarial Voice Commands”
    - Faculty Research Initiative (FRI), RED at DSU, Amount: $3,000, Period: 09/2020 – 04/2021.
       
 #### 3.2 Awards
-5. **IET Journals Premium Award for Best Paper**, 2020
-   - Institution of Engineering and Technology (IET) – *IET Smart Grid*
-4. **Milton E. Mohr Graduate Fellowship Award**, 2017
-   - College of Engineering, University of Nebraska-Lincoln
-3. **Best Poster Award**, 2015
-   - 11th International Conference on Design of Reliable Communication Networks, Kansas City, MO.
-2. **Outstanding Graduate Students Scholarship**, 2013
-   - School of Information Science, University of Pittsburgh
+5. **IET Journals Premium Award for Best Paper**, Institution of Engineering and Technology (IET) – *IET Smart Grid*, 2020.
+4. **Milton E. Mohr Graduate Fellowship Award**, College of Engineering, University of Nebraska-Lincoln, 2017.
+3. **Best Poster Award**, 11th International Conference on Design of Reliable Communication Networks, Kansas City, MO, 2015.
+2. **Outstanding Graduate Students Scholarship**, School of Information Science, University of Pittsburgh, 2013.
 1. **Travel awards**:
    - **National Science Foundation (NSF) – Travel Award**, NSF Networking Technology and Systems Early-Career Investigators (NeTS-ECI) Workshop, Alexandria, VA, 2019.
    - **NSF – Student Travel Award**, 12th Central Area Networking and Security Workshop, Manhattan, KS, 2018.
