@@ -28,10 +28,10 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "On Reliability of Smart Grid Neighborhood Area Networks," *IEEE Access*, vol.3, pp.2352-2365, 2015.
 
 #### 2.3 Conference Papers
-15. Tarek Ahmed and **Shengjie Xu**, “Shellcoding: Hunting for Kernel32 Base Address,” *IEEE Conference on Computer Communications (INFOCOM) Workshops (INFOCOM WKSHPS)*, virtual conference, May 2-5, 2022.
+15. Tarek Ahmed and **Shengjie Xu**, "Shellcoding: Hunting for Kernel32 Base Address," *IEEE Conference on Computer Communications (INFOCOM) Workshops (INFOCOM WKSHPS)*, virtual conference, May 2-5, 2022.
 14. Justin Burr and **Shengjie Xu**, "Improving Adversarial Attacks Against Executable Raw Byte Classifiers," *IEEE Conference on Computer Communications (INFOCOM) Workshops (INFOCOM WKSHPS)*, virtual conference, May 10-13, 2021.
 13. Matt Bradley and **Shengjie Xu**, "A Metric for Machine Learning Vulnerability to Adversarial Examples," *IEEE Conference on Computer Communications (INFOCOM) Workshops (INFOCOM WKSHPS)*, virtual conference, May 10-13, 2021.
-12. Sujita Chaudhary, Austin O’Brien, and **Shengjie Xu**, “Automated Post-Breach Penetration Testing through Reinforcement Learning,” *IEEE Conference on Communications and Network Security (CNS) Workshop*, virtual conference, June 29 - July 1, 2020.
+12. Sujita Chaudhary, Austin O’Brien, and **Shengjie Xu**, "Automated Post-Breach Penetration Testing through Reinforcement Learning," *IEEE Conference on Communications and Network Security (CNS) Workshop*, virtual conference, June 29 - July 1, 2020.
 11. Dongfeng Fang, **Shengjie Xu**, and Hamid Sharif, "Security Analysis of Wireless Train Control Systems", *IEEE Global Communications Conference (GLOBECOM) Workshops*, Waikoloa, HI, USA, December 9-13, 2019. 
 10. **Shengjie Xu**, Dongfeng Fang, and Hamid Sharif, "Efficient Network Anomaly Detection for Edge Gateway Defense in 5G", *IEEE Global Communications Conference (GLOBECOM) Workshops*, Waikoloa, HI, USA, December 9-13, 2019.
 9. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "A Semi-Supervised Learning Approach for Network Anomaly Detection in Fog Computing", *IEEE International Conference on Communications (ICC)*, Shanghai, China, May 20-24, 2019.
