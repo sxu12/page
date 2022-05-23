@@ -158,25 +158,25 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 ### 6. Invited Talks & In the News
 
 #### 6.1 Invited Talks
-- "**Secure Edge Computing for Gateway Defense in Cyber Physical Systems**", invited by Dr. Jon Kellar, Center Director - Center for Understanding & Disrupting the Illicit Economy and NSF National Research Traineeship Program Cyber-Physical-Social System for Understanding & Thwarting the Illicit Economy, virtual seminar, October 2021.
-- "**Edge Computing Enabled Artificial Intelligence for Security and Privacy: Opportunities and Challenges**", DSU MadLabs Cybersecurity Workshop, Madison, SD, March 2020. [Keynote Talk] [canceled due to COVID-19]
-- "**Data-driven Edge Intelligence for Network Anomaly Detection**", IEEE Computer Society - Siouxland Section, Brookings, SD, December 2019. [Speaking Event](https://events.vtools.ieee.org/m/210013)
-- "**Efficient Network Anomaly Detection for Edge Gateway Defense in 5G**", IEEE Global Communications Conference (GLOBECOM) Workshop, Waikoloa, HI, December 2019.
-- "**Data-driven Network Intelligence for Cyber Security**", 12th Central Area Networking and Security Workshop,  Manhattan, KS, October 2018.
-- "**Data-driven Network Intelligence for Cyber Security**", 3rd Academic Research Colloquium (ARC), School of Engineering, University of Dayton, Dayton, Ohio, October 2018.
-- "**A Predicate Encryption Scheme for Anomaly Detection in E-Health Communication Networks**", IEEE International Conference on Communications (ICC), Kansas City, MO, May 2018.
-- "**Vehicle Routing Applications for Emergency Planning and Disaster Relief in Public Safety Communications for Rural Communities**", University of Nebraska-Lincoln Research Fair},  Lincoln, NE, April 2018.
-- "**A Study on Communication Network Reliability for Advanced Metering Infrastructure in Smart Grid**", IEEE Cyber Science and Technology Congress (CyberSciTech), Orlando, FL, November 2017.
-- "**A Data-driven Preprocessing Scheme on Anomaly Detection in Big Data Applications**", IEEE Conference on Computer Communications (INFOCOM) - Big Security Workshop, Atlanta, GA, May 2017. 
-- "**On Reliability of Smart Grid Neighborhood Area Networks**", University of Nebraska-Lincoln Spring 2017 Research Fair,  Lincoln, NE, April 2017.
-- "**Quantitative Study of Reliable Communication Infrastructure in Smart Grid NAN**", 11th International Conference on the Design of Reliable Communication Networks,  Kansas City, MO, March 2015.
-- "**Network Security Research in Smart Grid Communication Systems**", 6th Central Area Networking and Security Workshop,  Lawrence, KS, October 2014.
+13. "**Secure Edge Computing for Gateway Defense in Cyber Physical Systems**", invited by Dr. Jon Kellar, Center Director - Center for Understanding & Disrupting the Illicit Economy and NSF National Research Traineeship Program Cyber-Physical-Social System for Understanding & Thwarting the Illicit Economy, virtual seminar, October 2021.
+12. "**Edge Computing Enabled Artificial Intelligence for Security and Privacy: Opportunities and Challenges**", DSU MadLabs Cybersecurity Workshop, Madison, SD, March 2020. [Keynote Talk] [canceled due to COVID-19]
+11. "**Data-driven Edge Intelligence for Network Anomaly Detection**", IEEE Computer Society - Siouxland Section, Brookings, SD, December 2019. [Speaking Event](https://events.vtools.ieee.org/m/210013)
+10. "**Efficient Network Anomaly Detection for Edge Gateway Defense in 5G**", IEEE Global Communications Conference (GLOBECOM) Workshop, Waikoloa, HI, December 2019.
+9. "**Data-driven Network Intelligence for Cyber Security**", 12th Central Area Networking and Security Workshop,  Manhattan, KS, October 2018.
+8. "**Data-driven Network Intelligence for Cyber Security**", 3rd Academic Research Colloquium (ARC), School of Engineering, University of Dayton, Dayton, Ohio, October 2018.
+7. "**A Predicate Encryption Scheme for Anomaly Detection in E-Health Communication Networks**", IEEE International Conference on Communications (ICC), Kansas City, MO, May 2018.
+6. "**Vehicle Routing Applications for Emergency Planning and Disaster Relief in Public Safety Communications for Rural Communities**", University of Nebraska-Lincoln Research Fair},  Lincoln, NE, April 2018.
+5. "**A Study on Communication Network Reliability for Advanced Metering Infrastructure in Smart Grid**", IEEE Cyber Science and Technology Congress (CyberSciTech), Orlando, FL, November 2017.
+4. "**A Data-driven Preprocessing Scheme on Anomaly Detection in Big Data Applications**", IEEE Conference on Computer Communications (INFOCOM) - Big Security Workshop, Atlanta, GA, May 2017. 
+3. "**On Reliability of Smart Grid Neighborhood Area Networks**", University of Nebraska-Lincoln Spring 2017 Research Fair,  Lincoln, NE, April 2017.
+2. "**Quantitative Study of Reliable Communication Infrastructure in Smart Grid NAN**", 11th International Conference on the Design of Reliable Communication Networks,  Kansas City, MO, March 2015.
+1. "**Network Security Research in Smart Grid Communication Systems**", 6th Central Area Networking and Security Workshop,  Lawrence, KS, October 2014.
 
 #### 6.2 In the News
-- "**Eye on KELOLAND: A home for cyber security research**", KELOLAND TV, February 27, 2022. [News](https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/), [YouTube](https://www.youtube.com/watch?v=Sa6qElh6WKM)
-- "**DSU Hosts JROTC Cyber Academy**", Dakota State University – News, August 11, 2021. [News](https://dsu.edu/news/2021/08/jrotc-cyber-academy.html)
-- "**DSU Welcomes New Degrees in Artificial Intelligence**", SiouxFalls.Business, April 29, 2021. [News](https://www.siouxfalls.business/dsu-welcomes-new-degrees-in-artificial-intelligence)
-- "**Trustworthy Artificial Intelligence**", Dakota State University – News, April 16, 2021. [News](https://dsu.edu/news/2021/04/trustworthy-artificial-intelligence.html)
-- "**IET Journals Premium Award for Best Paper in IET Smart Grid**", IET Smart Grid, January 2021. [News](https://ietresearch.onlinelibrary.wiley.com/hub/journal/25152947/homepage/prizes)
-- "**Grants Advance Research**", Dakota State University – News, October 21, 2020. [News](https://dsu.edu/news/2020/10/internal-grants-advance-research.html?utm_source=hootsuite&utm_medium=twitter&utm_term=dakotastate&utm_content=f234179e-3dd6-440a-9ff3-5bc123d74d58&utm_campaign=)
-- "**Building the Future with Artificial Intelligence, Machine Learning at Dakota State**", SiouxFalls.Business, September 28, 2020. [News](https://www.siouxfalls.business/building-the-future-with-artificial-intelligence-machine-learning-at-dakota-state/)
+7. "**Eye on KELOLAND: A home for cyber security research**", KELOLAND TV, February 27, 2022. [News](https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/https://www.keloland.com/news/eye-on-keloland/eye-on-keloland-a-home-for-cyber-security-research/), [YouTube](https://www.youtube.com/watch?v=Sa6qElh6WKM)
+6. "**DSU Hosts JROTC Cyber Academy**", Dakota State University – News, August 11, 2021. [News](https://dsu.edu/news/2021/08/jrotc-cyber-academy.html)
+5. "**DSU Welcomes New Degrees in Artificial Intelligence**", SiouxFalls.Business, April 29, 2021. [News](https://www.siouxfalls.business/dsu-welcomes-new-degrees-in-artificial-intelligence)
+4. "**Trustworthy Artificial Intelligence**", Dakota State University – News, April 16, 2021. [News](https://dsu.edu/news/2021/04/trustworthy-artificial-intelligence.html)
+3. "**IET Journals Premium Award for Best Paper in IET Smart Grid**", IET Smart Grid, January 2021. [News](https://ietresearch.onlinelibrary.wiley.com/hub/journal/25152947/homepage/prizes)
+2. "**Grants Advance Research**", Dakota State University – News, October 21, 2020. [News](https://dsu.edu/news/2020/10/internal-grants-advance-research.html?utm_source=hootsuite&utm_medium=twitter&utm_term=dakotastate&utm_content=f234179e-3dd6-440a-9ff3-5bc123d74d58&utm_campaign=)
+1. "**Building the Future with Artificial Intelligence, Machine Learning at Dakota State**", SiouxFalls.Business, September 28, 2020. [News](https://www.siouxfalls.business/building-the-future-with-artificial-intelligence-machine-learning-at-dakota-state/)
