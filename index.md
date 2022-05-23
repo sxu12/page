@@ -70,16 +70,11 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 2. **Outstanding Graduate Students Scholarship**, 2013
    - School of Information Science, University of Pittsburgh
 1. **Travel awards**:
-   - **National Science Foundation (NSF) – Travel Award**, 2019
-	- NSF Networking Technology and Systems Early-Career Investigators (NeTS-ECI) Workshop, Alexandria, VA.
-   - **NSF – Student Travel Award**, 2018
-   	- 12th Central Area Networking and Security Workshop, Manhattan, KS.
-   - **Graduate Student Conference Travel Award**, 2018
-	- College of Engineering, University of Nebraska-Lincoln
-   - **INFORMS Travel Award**, 2016
-	- INFORMS Conference on Business Analytics and Operations Research, Orlando, FL.
-   - **NSF – Student Travel Award**, 2014
-	- 6th Central Area Networking and Security Workshop, Lawrence, KS.
+   - **National Science Foundation (NSF) – Travel Award**, NSF Networking Technology and Systems Early-Career Investigators (NeTS-ECI) Workshop, Alexandria, VA, 2019.
+   - **NSF – Student Travel Award**, 12th Central Area Networking and Security Workshop, Manhattan, KS, 2018.
+   - **Graduate Student Conference Travel Award**, College of Engineering, University of Nebraska-Lincoln, 2018.
+   - **INFORMS Travel Award**, INFORMS Conference on Business Analytics and Operations Research, Orlando, FL, 2016.
+   - **NSF – Student Travel Award**, 6th Central Area Networking and Security Workshop, Lawrence, KS, 2014.
 
 #### 3.3 Professional Certifications
 7. CNSS No. 4011 – Information Systems Security Professionals
