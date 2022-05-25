@@ -61,7 +61,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
    - Faculty Research Initiative (FRI), RED at DSU, Amount: $3,000, Period: 09/2020 – 04/2021.
       
 #### 3.2 Awards
-5. **IET Journals Premium Award for Best Paper**, Institution of Engineering and Technology (IET) – *IET Smart Grid*, 2020.
+5. **IET Journals Premium Award for Best Paper**, Institution of Engineering and Technology (IET) – IET Smart Grid, 2020.
 4. **Milton E. Mohr Graduate Fellowship Award**, College of Engineering, University of Nebraska-Lincoln, 2017.
 3. **Best Poster Award**, 11th International Conference on Design of Reliable Communication Networks, Kansas City, MO, 2015.
 2. **Outstanding Graduate Students Scholarship**, School of Information Science, University of Pittsburgh, 2013.
