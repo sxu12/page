@@ -16,7 +16,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 
 ### 2. Publications
 #### 2.1 Book
-1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Data-driven Network Intelligence for Cyber Security," *John Wiley/IEEE Press*. (to appear in late 2022)
+1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Cybersecurity in Intelligent Networking Systems," *John Wiley/IEEE Press*. (to appear in late 2022)
 
 #### 2.2 Journal Articles
 7.  Sohan Gyawali, **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Challenges and Solutions for Cellular based V2X Communications," *IEEE Communications Surveys and Tutorials*, vol. 23, no. 1, pp. 222-255, Firstquarter 2021.
