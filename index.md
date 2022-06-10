@@ -83,7 +83,7 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 
 ### 4. Research Group
 #### 4.1 Director
-- Dr. Shengjie Xu (title: assistant professor of computer and cyber sciences at Dakota State University)
+- Dr. Shengjie Xu (title: assistant professor of computer and cyber sciences at Dakota State University, August 2019 - May 2022)
   - Research interest: AI-driven cybersecurity, secure edge computing, and critical infrastructure protection
   - affiliated with the DSU’s [Madison Cyber Labs](https://dsu.edu/research/madison-cyber-labs/index.html) and [AI Lab (AI/ML for cybersecurity research group)](https://dsu.edu/research/madison-cyber-labs/ai-lab.html)
 
