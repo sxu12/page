@@ -1,8 +1,8 @@
-## Dr. Shengjie Xu, Assistant Professor, San Diego State University
+## Dr. Shengjie Xu, Assistant Professor
 
 ``` markdown
 | Shengjie Xu, Ph.D. |
-| Incoming Assistant Professor (focusing Cybersecurity & AI/ML) |
+| Incoming Assistant Professor (Cybersecurity, Machine Learning) |
 | Management Information Systems Department |
 | Fowler College of Business |
 | San Diego State University |
