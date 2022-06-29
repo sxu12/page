@@ -1,4 +1,4 @@
-## Dr. Shengjie Xu, Assistant Professor
+## Dr. Shengjie Xu, Assistant Professor, San Diego State University
 
 ``` markdown
 | Shengjie Xu, Ph.D. |
