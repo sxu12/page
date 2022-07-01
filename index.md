@@ -111,6 +111,8 @@ Starting in August 2022, Dr. Xu will serve as an assistant professor in the Mana
 - Editor – [International Journal of Sensor Networks (IJSNet)](https://www.inderscience.com/jhome.php?jcode=ijsnet#edboard-content), September 2020 – Present
 
 #### 5.2 Technical Program Committee (TPC) member
+- IEEE International Conference on Communications (ICC), 2023
+  - Symposium: Green Communication Systems and Networks (GCSN)
 - IEEE International Conference on Communications (ICC), 2022
   - Symposium: Green Communication Systems and Networks (GCSN)
   - Symposium: Next-Generation Networking and Internet (NGNI)
