@@ -2,7 +2,7 @@
 
 ``` markdown
 | Shengjie Xu, Ph.D. |
-| Incoming Assistant Professor |
+| Assistant Professor |
 | Management Information Systems Department |
 | Fowler College of Business |
 | San Diego State University |
