@@ -6,7 +6,7 @@
 | Management Information Systems Department |
 | Fowler College of Business |
 | San Diego State University |
-| Email: sxu14 [at] ieee [dot] org |
+| Email: sxu6 [at] sdsu [dot] edu, sxu14 [at] ieee [dot] org |
 ```
 
 ### 1. Biography & Research Interests
