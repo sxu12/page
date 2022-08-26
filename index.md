@@ -151,9 +151,9 @@ Dr. Xu is currently an assistant professor in the Management Information Systems
 - Military Communications Conference (Milcom) 2015, 2016, 2017
 - International Conference on Design of Reliable Communication Networks (DRCN) 2015
 
-### 6. Invited Talks & In the News
+### 6. Invited Talks and Research Presentations & In the News
 
-#### 6.1 Invited Talks
+#### 6.1 Invited Talks and Research Presentations
 13. "**Secure Edge Computing for Gateway Defense in Cyber Physical Systems**", invited by Dr. Jon Kellar, Center Director - Center for Understanding & Disrupting the Illicit Economy and NSF National Research Traineeship Program Cyber-Physical-Social System for Understanding & Thwarting the Illicit Economy, virtual seminar, October 2021.
 12. "**Edge Computing Enabled Artificial Intelligence for Security and Privacy: Opportunities and Challenges**", DSU MadLabs Cybersecurity Workshop, Madison, SD, March 2020. [Keynote Talk] [canceled due to COVID-19]
 11. "**Data-driven Edge Intelligence for Network Anomaly Detection**", IEEE Computer Society - Siouxland Section, Brookings, SD, December 2019. [Speaking Event](https://events.vtools.ieee.org/m/210013)
