@@ -19,13 +19,14 @@ Dr. Xu is currently an assistant professor in the Management Information Systems
 1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Cybersecurity in Intelligent Networking Systems," *John Wiley/IEEE Press*. (to appear in late 2022)
 
 #### 2.2 Journal Articles
-7.  Sohan Gyawali, **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Challenges and Solutions for Cellular based V2X Communications," *IEEE Communications Surveys and Tutorials*, vol. 23, no. 1, pp. 222-255, Firstquarter 2021.
-6. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Data-driven Edge Intelligence for Robust Network Anomaly Detection," *IEEE Transactions on Network Science and Engineering*, vol. 7, no. 3, pp. 1481-1492, 1 July-Sept. 2020.
-5. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Edge Intelligence Assisted Gateway Defense in Cyber Security," *IEEE Network*, vol. 34, no. 4, pp. 14-19, July/August 2020.
-4. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Data-driven Network Intelligence for Anomaly Detection," *IEEE Network*, vol. 33, no. 3, pp. 88-95, May/June 2019.
-3. **Shengjie Xu** and Yi Qian, "Machine Learning Enabled Data Preprocessing in Cyber Security Applications," *IEEE ComSoc MMTC Communications - Frontiers*, vol. 13, no. 6, pp. 15- 18, November 2018.
-2. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Reliable and Resilient Access Network Design for Advanced Metering Infrastructures in Smart Grid," *IET Smart Grid*, vol. 1, pp. 24-30, April 2018. (**IET Journals Premium Award for Best Paper**)
-1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "On Reliability of Smart Grid Neighborhood Area Networks," *IEEE Access*, vol.3, pp.2352-2365, 2015.
+7.  **Shengjie Xu**, "A Study of UAV Security and Privacy", (under review).
+8.  Sohan Gyawali, **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Challenges and Solutions for Cellular based V2X Communications," *IEEE Communications Surveys and Tutorials*, vol. 23, no. 1, pp. 222-255, Firstquarter 2021.
+9. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Data-driven Edge Intelligence for Robust Network Anomaly Detection," *IEEE Transactions on Network Science and Engineering*, vol. 7, no. 3, pp. 1481-1492, 1 July-Sept. 2020.
+10. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Edge Intelligence Assisted Gateway Defense in Cyber Security," *IEEE Network*, vol. 34, no. 4, pp. 14-19, July/August 2020.
+11. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Data-driven Network Intelligence for Anomaly Detection," *IEEE Network*, vol. 33, no. 3, pp. 88-95, May/June 2019.
+12. **Shengjie Xu** and Yi Qian, "Machine Learning Enabled Data Preprocessing in Cyber Security Applications," *IEEE ComSoc MMTC Communications - Frontiers*, vol. 13, no. 6, pp. 15- 18, November 2018.
+13. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Reliable and Resilient Access Network Design for Advanced Metering Infrastructures in Smart Grid," *IET Smart Grid*, vol. 1, pp. 24-30, April 2018. (**IET Journals Premium Award for Best Paper**)
+14. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "On Reliability of Smart Grid Neighborhood Area Networks," *IEEE Access*, vol.3, pp.2352-2365, 2015.
 
 #### 2.3 Conference Papers
 15. Tarek Ahmed and **Shengjie Xu**, "Shellcoding: Hunting for Kernel32 Base Address," *IEEE Conference on Computer Communications (INFOCOM) Workshops (INFOCOM WKSHPS)*, virtual conference, May 2-5, 2022.
