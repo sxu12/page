@@ -16,7 +16,7 @@ Dr. Xu is currently an assistant professor in the Management Information Systems
 
 ### 2. Publications
 #### 2.1 Book
-1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Cybersecurity in Intelligent Networking Systems," *John Wiley & Sons*. (to appear in early 2023)
+1. **Shengjie Xu**, Yi Qian, and Rose Qingyang Hu, "Cybersecurity in Intelligent Networking Systems," *John Wiley & Sons*, 2022.
 
 #### 2.2 Journal Articles
 7.  **Shengjie Xu**, "A Study of UAV Security and Privacy", (under review).
